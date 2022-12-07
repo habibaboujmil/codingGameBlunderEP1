@@ -11,6 +11,7 @@ export const App = () => (
       minH='100vh'
       w='full'
       maxW='100vw'
+      bg={'#f9f9f9'}
     >
       <Blunder />
     </Flex>
